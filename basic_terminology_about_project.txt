@@ -1,0 +1,32 @@
+Key Metrics at level 1:
+// DashBoard == 3 Why? define karvu joe (level by level)
+// Total Availble Rooms == Exact ketli Rooms Working or sellable Condition ma 6
+// weekends are friday,saturday
+
+
+1) RevPar (Revenue per Available Room)
+  = totalRevenue / Total Available Rooms
+  = ADR*Occupancy
+
+  where Occupancy = (Total Rooms Occupied)/(Total Available Rooms) 
+
+2) ADR (Average Daily Rate)
+  =  (Total Revenue / Total Rooms Occupied or sold ) 
+
+3) SRN (sellable Room Nights) 
+        -->> may be for month
+   
+4) DSRN (Daily Sellable Room Nights) 
+        -->>as name per suggests daily , very helpful 
+   
+5) URN (Utilized Room Nights)
+       -->> customer ended up with staying there(hence utilized)
+
+6) BRN  (Booked Room Nights)  
+         = URN + No Shows + Cancellations
+        -->> how many have Rooms had Booked
+       
+// cancellations , No shows(alag karan thi stay na kare, or cancellation na kari sake on time)
+
+7) Reliazation  = URN/BRN   == against booking how many customers have stayed
+                  (which will generate revenue )
